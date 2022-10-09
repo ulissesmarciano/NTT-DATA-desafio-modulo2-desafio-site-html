@@ -4,4 +4,4 @@ Este módulo se refere a criação de um site com o objetivo de treinar habilida
 
 ##Exemplo
 
-<img src"./assets/gifs/readmeanimation.gif" alt="Imagem do Projeto" />
+<img src="/assets/gifs/readmeanimation.gif" alt="Imagem do Projeto" />
